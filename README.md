@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -34,7 +33,10 @@
         <img class="imagem-fundo" src="./src/imagens/bg-main.png" alt="Imagem com o cara de jaqueta laranja e o carro ">
 
         <div class="informacoes">
-            <div class="lista-de-jogos"></div>
+            <div class="lista-de-jogos">
+                <img src="./src/imagens/logo-gta-v.svg" alt="Logo GTA V">
+                <img src="./src/imagens/logo-gta-online.svg" alt="Logo GTA Online">
+            </div>
             <h1 class="titulo" style="font-family: 'Chalet', sans-serif;">Já disponivel para ps5 e Xbox Series X S </h1>
             <p class="texto">
                 Experimente os fênomenos de entreterimento Grand Theft Auto V e GTA Online
